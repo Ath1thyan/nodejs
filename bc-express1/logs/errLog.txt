@@ -1,0 +1,2 @@
+02-06-2024	004:44:14	846b57c8-6442-48eb-8cc1-62aa2806512e	Error: Not allowed by CORS
+02-06-2024	005:46:23	94233f59-6811-48de-9a70-169c47a52521	Error: ENOENT: no such file or directory, stat '/Users/athis_mac/Developer/Labs/PlayGround/nodejs/bc-express1/routes/index.html'
