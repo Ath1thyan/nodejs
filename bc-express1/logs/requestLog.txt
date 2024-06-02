@@ -18,3 +18,7 @@
 02-06-2024	005:47:07	5f9ed6e5-2b28-4af2-85e2-7c9da875f1ac	GET	 undefined	 /
 02-06-2024	005:47:13	74917d81-292b-4d8e-ae49-b8dd88ee0f39	GET	 undefined	 /old
 02-06-2024	005:47:13	60e3c64b-d7b5-4b1f-ade0-f8c4d396341f	GET	 undefined	 /new.html
+02-06-2024	006:47:43	0b1fa799-b907-4e67-9909-69ea27bc8478	GET	 undefined	 /employees
+02-06-2024	006:48:20	fbf76123-bd9a-4057-8cdc-085ec5ca806e	GET	 undefined	 /employees/1
+02-06-2024	006:48:48	da90335a-ceab-4a46-bd59-89cb53b16b00	POST	 undefined	 /employees
+02-06-2024	006:51:59	0df7fd69-eb26-4971-b69c-bf28bf0434f6	POST	 undefined	 /employees

@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1,
+        "fname" : "sudo",
+        "lname" : "root"
+    },
+    {
+        "id" : 2,
+        "fname" : "su",
+        "lname" : "user"
+    }
+]

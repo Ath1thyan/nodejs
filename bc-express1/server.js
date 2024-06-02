@@ -29,10 +29,11 @@ app.use(logger)
 app.use(cors(corsOptions))
 app.use(express.urlencoded({extended:false}))
 app.use(express.json())
-app.use(express.static(path.join(__dirname, 'public')))
+app.use('/', express.static(path.join(__dirname, 'public')))
 
 app.use('/', require('./routes/root'))
 app.use('/views', require('./routes/subdir'))
+app.use('/employees', require('./routes/api/employees'))
 
 
 const one = (req, res, next) => {
