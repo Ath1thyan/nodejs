@@ -1,5 +1,5 @@
 {
-  "name": "errorhandling-1",
+  "name": "mongoose-search-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1",
-    "joi": "^17.13.3",
-    "nodemon": "^3.1.7"
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
   }
 }
